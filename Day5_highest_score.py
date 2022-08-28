@@ -7,4 +7,4 @@ def find_max_score(list):
             max_score=score
     return max_score
 
-print(find_max_score([78,91,82,111,45,67]))
+print(f"The highest score in the class is : {find_max_score([78,91,82,111,45,67])}")
