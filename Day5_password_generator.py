@@ -27,6 +27,7 @@ for i in range(0,int(nr_symbols)):
 
 print(rand_symbol)
 
+
 rand_number=""
 for i in range(0,int(nr_numbers)):
     random.shuffle(numbers)
